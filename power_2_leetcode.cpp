@@ -10,10 +10,10 @@ int main(){
     {
        int ans = pow(2,i);
             if (ans == n){
-                cout<<"true"<<endl;
+                cout<<"true";
        }
             else {
-                 cout<<"false"<<endl;
+                 cout<<"false";
                  }
    
     }
