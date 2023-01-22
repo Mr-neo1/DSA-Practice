@@ -12,8 +12,11 @@ int main()
     for(int i=1; i<=20; i++)
     {
         int nextnumer = a + b;
+        
         cout<<nextnumer <<" ";
+        
         a = b;
+       
         b = nextnumer;
     }
 }

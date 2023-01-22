@@ -7,6 +7,7 @@ int main()
     int n;
     cin>>n;
 
+
     int ans = 0;
     int i = 0;
 

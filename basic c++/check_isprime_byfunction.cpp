@@ -23,7 +23,8 @@ int main()
         cout<<"it is prime number";
     }
 
-    else{
+    else
+    {
         cout<<"it is not prime number";
     }
 }

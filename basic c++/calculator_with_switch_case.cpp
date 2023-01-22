@@ -7,6 +7,7 @@ int main(){
     cout<<"Enter NUmber A :-";
     cin>>a;
 
+    
     cout<<"Enter Number B :-";
     cin>>b;
 

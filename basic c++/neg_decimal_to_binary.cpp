@@ -18,6 +18,7 @@ int i = 0 , ans = 0;
     n = n / 10;
     i++;
  }
+
  cout<<ans;
 
 }

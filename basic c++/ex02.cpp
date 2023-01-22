@@ -11,10 +11,12 @@ int main()
 
     while (i<n)
     {
-        if(n%i==0){
+        if(n%i==0)
+        {
             cout<<"Not Prime" << i<< endl;
         }
-        else{
+        else
+        {
             cout<<"Prime" << i << endl;
         
         }
