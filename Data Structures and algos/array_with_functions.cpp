@@ -11,7 +11,6 @@ void printArray(int arr[], int size)
     cout <<"Printing Done" << endl;
 }
 
-
 int main()
 {
     int number[19];
